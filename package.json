@@ -1,0 +1,27 @@
+{
+  "name": "gram-js-sample",
+  "version": "1.0.0",
+  "description": "Пробное использование библиотеки gram-js для создания Телеграм-клиента",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickKrsk/gram-js-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickKrsk/gram-js-sample/issues"
+  },
+  "homepage": "https://github.com/NickKrsk/gram-js-sample#readme",
+  "devDependencies": {
+    "telegram": "^2.5.22"
+  },
+  "dependencies": {
+    "input": "^1.0.1"
+  }
+}
